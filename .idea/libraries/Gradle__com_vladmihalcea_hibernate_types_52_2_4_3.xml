@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.vladmihalcea:hibernate-types-52:2.4.3">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vladmihalcea/hibernate-types-52/2.4.3/866e855c6678e8a4bcd80def370c82699a4e9587/hibernate-types-52-2.4.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vladmihalcea/hibernate-types-52/2.4.3/1536d647369be54a6ec201caa7d51c6eae565154/hibernate-types-52-2.4.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

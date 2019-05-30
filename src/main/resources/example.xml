@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.55.6 486819c8">
+    <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+    <meta osm_base="2019-04-22T05:33:02Z"/>
+    <node id="231477" lat="52.2600355" lon="0.0172928" version="2" timestamp="2011-02-27T02:33:27Z" changeset="7406582" uid="39894" user="markpeers"/>
+
+    <node id="231478" lat="52.2552032" lon="0.0281442" version="4" timestamp="2011-02-27T02:33:25Z" changeset="7406582" uid="39894" user="markpeers">
+        <tag k="exit_to" v="Bar Hill B1050; Longstanton"/>
+        <tag k="fixme" v="What is with all the layer=3s around this junction?"/>
+        <tag k="highway" v="motorway_junction"/>
+        <tag k="layer" v="3"/>
+        <tag k="name" v="Bar Hill"/>
+        <tag k="ref" v="29"/>
+    </node>
+
+    <way id="9933583" version="18" timestamp="2013-01-06T20:59:43Z" changeset="14555667" uid="30525" user="The Maarssen Mapper">
+        <nd ref="2098832234"/>
+        <nd ref="81448050"/>
+        <nd ref="1263117830"/>
+        <nd ref="1263117982"/>
+        <nd ref="81448052"/>
+        <nd ref="81448053"/>
+        <nd ref="81448054"/>
+        <nd ref="1297466013"/>
+        <nd ref="81448063"/>
+        <tag k="admin_level" v="6"/>
+        <tag k="boundary" v="administrative"/>
+        <tag k="left:county" v="Cambridgeshire"/>
+        <tag k="right:county" v="Essex"/>
+        <tag k="source" v="OS_OpenData_Boundary-Line"/>
+    </way>
+
+    <relation id="2839278" version="1" timestamp="2013-03-25T13:56:31Z" changeset="15491865" uid="322785" user="BCNorwich">
+        <member type="way" ref="74424273" role="outer"/>
+        <member type="way" ref="4950089" role="inner"/>
+        <member type="way" ref="212392511" role="inner"/>
+        <member type="way" ref="212392522" role="inner"/>
+        <tag k="leisure" v="park"/>
+        <tag k="type" v="multipolygon"/>
+    </relation>
+</osm>

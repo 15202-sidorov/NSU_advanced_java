@@ -1,0 +1,17 @@
+spring:
+  jpa:
+    hibernate:
+      ddl-auto: update
+    database-platform: org.hibernate.dialect.PostgreSQL9Dialect
+    properties:
+      hibernate:
+        temp:
+          use_jdbc_metadata_defaults: false
+        jdbc:
+          batch-size: 20000
+
+  datasource:
+    url: jdbc:postgresql://localhost:5432/advanced_java
+    username: postgres
+    password: 51522
+    driver-class-name: org.postgresql.Driver
